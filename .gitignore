@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# API keys and environment variables
+.env
+.env.*
+
+# Build output
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
